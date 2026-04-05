@@ -166,8 +166,8 @@ The model trained on this dataset was evaluated zero-shot on two independent mar
 
 | Dataset | Classes Matched | AP@0.5 (Overall) |
 |---|---|---|
-| [MOBDrone]([https://github.com/grains-polito/MOBDrone](https://aimh.isti.cnr.it/dataset/mobdrone/)) | boat, life_buoy, person | 0.1747 |
-| [SeaDronesSee-ODV2]([https://github.com/Ben93kie/SeaDronesSee](https://seadronessee.cs.uni-tuebingen.de/)) | boat, buoy, jetski, swimmer | 0.0937 |
+| [MOBDrone](https://github.com/grains-polito/MOBDrone](https://aimh.isti.cnr.it/dataset/mobdrone/)) | boat, life_buoy, person | 0.1747 |
+| [SeaDronesSee-ODV2](https://github.com/Ben93kie/SeaDronesSee](https://seadronessee.cs.uni-tuebingen.de/)) | boat, buoy, jetski, swimmer | 0.0937 |
 
 These results reflect zero-shot generalization without any fine-tuning on the target datasets.
 
