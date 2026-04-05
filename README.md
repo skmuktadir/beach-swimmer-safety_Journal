@@ -151,7 +151,7 @@ model = YOLO('yolov8n.pt')  # or yolov12s, yolov12m, etc.
 
 model.train(
     data='maritime_dataset/data.yaml',
-    epochs=50,
+    epochs=10,
     imgsz=640,
     batch=16,
     project='maritime_sar',
