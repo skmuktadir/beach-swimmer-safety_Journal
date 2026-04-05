@@ -16,7 +16,7 @@
 
 ## Overview
 
-This repository provides dataset documentation, metadata, and download instructions for the **Mixed Maritime 7-Class Detection Dataset** — a preprocessed, YOLO-format aerial dataset designed for small-object detection in maritime search and rescue (SAR) and safety monitoring scenarios using UAVs.
+This repository provides dataset documentation, metadata, and download instructions for the **Mixed Maritime 7-Class Detection Dataset** - a preprocessed, YOLO-format aerial dataset designed for small-object detection in maritime search and rescue (SAR) and safety monitoring scenarios using UAVs.
 
 The dataset was constructed by merging multiple publicly available maritime surveillance datasets, then subjected to a targeted preprocessing pipeline to address class imbalance, small-object invisibility, and a high rate of empty annotations.
 
