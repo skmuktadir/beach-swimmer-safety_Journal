@@ -194,7 +194,7 @@ All values are normalized to `[0, 1]` relative to image dimensions. One object p
 ## Citation
 
 If you use this dataset in your research, please cite:
-
+<!--
 ```bibtex
 @dataset{muktadir2025maritime,
   author    = {Muktadir, S. K. and others},
@@ -217,7 +217,7 @@ And the associated paper:
 ```
 
 ---
-
+-->
 ## License
 
 This dataset is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
