@@ -11,7 +11,6 @@
 
 > **Associated Paper:**
 > *Explainable and Generalisable Deep Learning for Cross-Dataset Maritime Search, Rescue, and Safety Monitoring Using UAVs*
-> S. K. Muktadir et al.
 
 ---
 
