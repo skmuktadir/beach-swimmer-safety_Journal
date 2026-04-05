@@ -147,7 +147,7 @@ names: ['drowning', 'swimming', 'life_buoy', 'boat', 'buoy', 'jetski', 'swimmer'
 ```python
 from ultralytics import YOLO
 
-model = YOLO('yolov12n.pt')  # or yolov12s, yolov12m, etc.
+model = YOLO('yolov8n.pt')  # or yolov12s, yolov12m, etc.
 
 model.train(
     data='maritime_dataset/data.yaml',
@@ -155,7 +155,7 @@ model.train(
     imgsz=640,
     batch=16,
     project='maritime_sar',
-    name='yolov12_run1'
+    name='yolov8n_run1'
 )
 ```
 
